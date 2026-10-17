@@ -119,37 +119,8 @@ The project also includes deployment support for microcontroller-based inference
 
 This makes the repository useful for TinyML prototyping and low-power edge deployment.
 
-## Citation and Related Work
 
-### Relevant papers
 
-[0] R. Dogaru and I. Dogaru, "Why RDT? Computational aspects in favor of the RDT transform," 2025.  
-[PDF](https://github.com/radu-dogaru/rdt_transform_for_tiny_ml_signal_classifiers/blob/main/why_RDT.pdf)
-
-[1] R. Dogaru and I. Dogaru, "A low complexity solution for epilepsy detection using an improved version of the reaction-diffusion transform," 2017 5th International Symposium on Electrical and Electronics Engineering (ISEEE), Galati, Romania, 2017, pp. 1-6.  
-https://ieeexplore.ieee.org/document/8170678
-
-[2] R. Dogaru and I. Dogaru, "State of the Art Recognition of Emotions from Speech, Using a Low Complexity Solution Based on Reaction-Diffusion Transform," 2022 International Symposium on Electronics and Telecommunications (ISETC), Timisoara, Romania, 2022, pp. 1-4.  
-https://ieeexplore.ieee.org/document/10010234
-
-## History
-
-The reaction-diffusion transform concept emerged from cellular automata and emergent behavior studies in the early 2000s. It was later extended for sound and signal recognition tasks, where it proved to be a strong low-complexity alternative to more computationally demanding spectral methods.
-
-This repository reflects the continued evolution of that idea into a compact, hardware-friendly TinyML-oriented feature transform.
-
-## License
-
-This project is distributed under the terms of the LICENSE file in the repository root.
-
-## Contact
-
-Copyright Radu and Ioana Dogaru  
-Email: radu.dogaru@upb.ro
-
-## Colab Notebook
-
-For easier access to datasets and interactive experiments, the main notebook can be launched in Google Colab:
 
 <a href="https://colab.research.google.com/github/radu-dogaru/rdt_transform_for_tiny_ml_signal_classifiers/blob/main/nrdt_2025.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
